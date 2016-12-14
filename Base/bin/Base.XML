@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Base</name>
+    </assembly>
+    <members>
+        <member name="T:Base.AutoMapperConfig">
+            <summary>
+            Automapper set up
+            </summary>
+        </member>
+        <member name="T:Base.WebApiApplication">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Base.WebApiApplication.Application_Start">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
