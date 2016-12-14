@@ -8,7 +8,7 @@ using Newtonsoft.Json.Serialization;
 using SimpleInjector;
 using System.Web.Mvc;
 using SimpleInjector.Integration.Web.Mvc;
-using Base.Services.Services;
+using Base.Services;
 
 namespace Base
 {
@@ -17,14 +17,16 @@ namespace Base
     /// </summary>
     public static class DependencyConfig
     {
-
+        /// <summary>
+        /// 
+        /// </summary>
         public static void Register()
         {
             // 1. Create a new Simple Injector container
             var container = new Container();
 
             // 2. Configure the container (register)
-            // See below for more configuration examples
+            // Service level items first
             InjectorSetup.Register(container);
 
             // 3. Optionally verify the container's configuration.

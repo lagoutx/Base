@@ -9,6 +9,11 @@
             Simple Injector Dependency Config
             </summary>
         </member>
+        <member name="M:Base.DependencyConfig.Register">
+            <summary>
+            
+            </summary>
+        </member>
         <member name="T:Base.AutoMapperConfig">
             <summary>
             Automapper set up

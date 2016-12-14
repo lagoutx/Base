@@ -1,12 +1,8 @@
-﻿using Base.Services.EF;
+﻿using Base.Services.Services;
+using Base.Services.Services.EF;
 using SimpleInjector;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Base.Services.Services
+namespace Base.Services
 {
     public static class InjectorSetup
     {
