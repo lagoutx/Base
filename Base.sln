@@ -4,8 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base", "Base\Base.csproj", "{E90F11B7-DD78-447A-BAE5-2678515037CD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9EF3DCB1-414A-486A-A85C-1E8435971EBF} = {9EF3DCB1-414A-486A-A85C-1E8435971EBF}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{9EF3DCB1-414A-486A-A85C-1E8435971EBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.Services", "Services\Base.Services.csproj", "{9EF3DCB1-414A-486A-A85C-1E8435971EBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

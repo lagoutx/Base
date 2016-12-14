@@ -93,3 +93,11 @@ C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\WebActivatorEx.d
 C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\Base.XML
 C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\AutoMapper.dll
 C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\AutoMapper.xml
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\SimpleInjector.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\SimpleInjector.xml
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\Base.Services.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\Base.Services.pdb
