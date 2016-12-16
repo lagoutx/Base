@@ -5,13 +5,24 @@ namespace Base.DAL
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
 
-    public partial class Base : DbContext
+    public partial class BaseContext : DbContext
     {
-        public Base()
+        /// <summary>
+        /// 
+        /// </summary>
+        public BaseContext()
             : base("name=DefaultConnection")
         {
         }
 
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="nameOrConnectionString"></param>
+        public BaseContext(string nameOrConnectionString) : base(nameOrConnectionString)
+        {
+
+        }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

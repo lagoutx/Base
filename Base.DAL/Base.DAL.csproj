@@ -55,7 +55,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Base.cs" />
+    <Compile Include="BaseContext.cs" />
+    <Compile Include="Models\EF\DataContext.cs" />
+    <Compile Include="Models\EF\UnitOfWork.cs" />
+    <Compile Include="Models\IDataContext.cs" />
+    <Compile Include="Models\ITransaction.cs" />
+    <Compile Include="Models\IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -63,7 +68,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\" />
+    <Folder Include="EntityModels\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -16,7 +16,7 @@ namespace Base
         // Register maps
         public static void Register()
         {
-            
+            Base.Services.AutoMapperConfig.Register();
         }
     }
 }

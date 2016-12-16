@@ -9,6 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base", "Base\Base.csproj", 
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.Services", "Services\Base.Services.csproj", "{9EF3DCB1-414A-486A-A85C-1E8435971EBF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C969F06C-EEF7-4AC7-9B73-35E628C29450} = {C969F06C-EEF7-4AC7-9B73-35E628C29450}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.DAL", "Base.DAL\Base.DAL.csproj", "{C969F06C-EEF7-4AC7-9B73-35E628C29450}"
 EndProject

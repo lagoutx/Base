@@ -101,3 +101,6 @@ C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\SimpleInjector.I
 C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\SimpleInjector.Integration.Web.Mvc.xml
 C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\Base.Services.dll
 C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\Base.Services.pdb
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\Base.DAL.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\Base.DAL.pdb
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base\bin\AutoMapper.Net4.dll

@@ -1,0 +1,12 @@
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\obj\Debug\Base.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\Base.DAL.dll.config
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\Base.DAL.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\Base.DAL.pdb
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\LinqKit.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\bin\Debug\LinqKit.xml
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\obj\Debug\Base.DAL.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Base.DAL\obj\Debug\Base.DAL.pdb

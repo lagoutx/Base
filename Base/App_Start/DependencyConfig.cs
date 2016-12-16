@@ -1,14 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
-using System.Web.Http;
-using Microsoft.Owin.Security.OAuth;
-using Newtonsoft.Json.Serialization;
-using SimpleInjector;
+﻿using SimpleInjector;
 using System.Web.Mvc;
 using SimpleInjector.Integration.Web.Mvc;
-using Base.Services;
 
 namespace Base
 {
@@ -27,7 +19,7 @@ namespace Base
 
             // 2. Configure the container (register)
             // Service level items first
-            InjectorSetup.Register(container);
+            Base.Services.DependencyConfig.Register(container);
 
             // 3. Optionally verify the container's configuration.
             container.Verify();

@@ -21,3 +21,8 @@ C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\Entity
 C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\EntityFramework.xml
 C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\Base.DAL.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\Base.DAL.pdb
+C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\AutoMapper.dll
+C:\Users\Scott\Documents\Development\Base Web App\Base\Services\bin\Debug\AutoMapper.xml
